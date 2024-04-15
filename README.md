@@ -1,4 +1,4 @@
-# 100+ Mind-Blowing HTML, CSS & JavaScript Projects
+# 100++ Mind-Blowing HTML, CSS & JavaScript Projects
 
 ![100+ Projects thumbnail](https://img-c.udemycdn.com/course/750x422/4282458_feaf_3.jpg)
 
