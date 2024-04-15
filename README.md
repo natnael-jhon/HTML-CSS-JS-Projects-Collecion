@@ -1,6 +1,6 @@
 # 100+ Mind-Blowing HTML, CSS & JavaScript Projects
 
-![100+ Projects thumbnail](https://img.youtube.com/vi/mSnpYJsaT9g/hqdefault.jpg)
+![100+ Projects thumbnail](https://img-c.udemycdn.com/course/750x422/4282458_feaf_3.jpg)
 
 Welcome to the repository showcasing over 100 mind-blowing projects built with HTML, CSS, and JavaScript. Whether you're looking for inspiration, practice, or simply want to explore, you'll find a plethora of projects here to delve into.
 
