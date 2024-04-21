@@ -16,6 +16,7 @@ Each project has its own directory containing `index.html`, `style.css`, and `sc
 
 Contributions are highly encouraged! If you have an amazing project to add, simply fork the repository, create a new branch, add your project files, and submit a pull request.
 
+
 ## Credit
 - For Favicon [`ICONS8`](https://icons8.com/icons/)
 - For Stock fotage i used [`PEXELS`](https://www.pexels.com/)
