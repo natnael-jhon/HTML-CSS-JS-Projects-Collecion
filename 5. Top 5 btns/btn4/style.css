@@ -1,0 +1,43 @@
+a{
+    padding: 1rem 4rem;
+    background: rgba(17, 17, 137, 0.824);
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+a::before{
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: -10px;
+    left: -10px;
+    /* bg was added for test purpose only */
+    /* background: teal; */
+    border-top: 4px solid darkblue;
+    border-left: 4px solid darkblue;
+    transition: all 0.222s;
+}
+
+a:hover::before, a:hover::after{
+    height: 100%;
+    width: 100%;
+}
+
+
+a::after{
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    right: -10px;
+    bottom: -10px;
+    border-bottom: 4px solid crimson;
+    border-right: 4px solid crimson;
+    transition: all 0.222s;
+}
